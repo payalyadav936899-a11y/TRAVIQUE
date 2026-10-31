@@ -3,4 +3,4 @@ Travique is a smart, all-in-one travel planner that helps users explore India wi
 
 Plan smarter, travel better, and explore more with Travique! Discover amazing destinations across India, create personalized itineraries, manage your budget, and find the best local experiences.
 
-**Your journey, your budget, your adventure! Start planning your next trip with TripMate today!** 🌍
+**Your journey, your budget, your adventure! Start planning your next trip with travique today!** 🌍
